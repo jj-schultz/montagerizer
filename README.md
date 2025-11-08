@@ -10,8 +10,8 @@ Follow these steps exactly once per computer. Replace paths as needed.
 
 1. **Download the project**
    ```bash
-   git clone https://github.com/jj-schultz/moviemaker.git
-   cd moviemaker
+   git clone https://github.com/jj-schultz/montagerizer.git
+   cd montagerizer
    ```
 2. **Create and activate a virtual environment**
    ```bash
