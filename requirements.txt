@@ -1,0 +1,6 @@
+moviepy
+pillow
+numpy
+tqdm
+pytest
+librosa
